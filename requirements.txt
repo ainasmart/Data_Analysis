@@ -1,3 +1,3 @@
-import streamlit as st
+import Streamlit as st
 import numpy as np
 import plotly.express as px
